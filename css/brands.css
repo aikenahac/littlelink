@@ -286,6 +286,14 @@ button:hover,
 .button.button-telegram:focus {
   filter: brightness(90%) }
 
+/* Website */
+.button.button-website {
+  color: #FFFFFF;
+  background-color: #1583d6 }
+.button.button-website:hover,
+.button.button-website:focus {
+  filter: brightness(90%) }
+
 /* TikTok */
 .button.button-tiktok {
   color: #FFFFFF;
